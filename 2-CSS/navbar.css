@@ -18,7 +18,7 @@ nav{
 .nav-boton{
     background: salmon;
     color: #fff;
-    margin: 10px 0;
+    padding: 10px 0;
     border: 2px solid #fff;
     display: none;
 }
