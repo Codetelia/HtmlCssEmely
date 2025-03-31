@@ -36,4 +36,7 @@ nav{
     .nav-boton{
        display: inline-block;
     }
+    .desaparece{
+        display: none;
+    }
 }    
